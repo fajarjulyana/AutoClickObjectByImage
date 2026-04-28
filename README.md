@@ -2,7 +2,7 @@
 
 **Auto Iklan Shopee PRO** adalah alat otomasi berbasis desktop yang dirancang untuk membantu penjual mengelola promosi produk secara otomatis menggunakan teknologi *Image Recognition*. Program ini mensimulasikan gerakan manusia (human-like movement) untuk menghindari deteksi bot dan meningkatkan efisiensi operasional toko.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **Image-Based Automation**: Mendeteksi tombol "Iklankan" dan "Iklankan Sekarang" secara akurat menggunakan OpenCV.
 * **Human-Like Movement**: Simulasi pergerakan kursor mouse yang acak dan natural.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Persyaratan Sistem
+## Persyaratan Sistem
 
 Pastikan Anda telah menginstal Python 3.x dan modul-modul berikut:
 
@@ -26,7 +26,7 @@ pip install pyautogui opencv-python pillow
 
 ---
 
-## 📂 Struktur File
+## Struktur File
 
 Agar program berjalan dengan lancar, pastikan file berikut berada dalam satu folder:
 
@@ -37,7 +37,7 @@ Agar program berjalan dengan lancar, pastikan file berikut berada dalam satu fol
 
 ---
 
-## 🛠️ Cara Penggunaan
+## Cara Penggunaan
 
 1.  **Siapkan Gambar**: Ambil screenshot kecil pada tombol "Iklankan" di browser Anda dan simpan dengan nama `iklankan.png` (pastikan resolusi layar sama saat pengambilan gambar dan saat menjalankan bot).
 2.  **Jalankan Skrip**:
@@ -52,7 +52,7 @@ Agar program berjalan dengan lancar, pastikan file berikut berada dalam satu fol
 
 ---
 
-## 🕹️ Kontrol GUI
+## Kontrol GUI
 
 * **START**: Memulai proses otomasi.
 * **STOP**: Menghentikan bot sepenuhnya.
@@ -61,15 +61,15 @@ Agar program berjalan dengan lancar, pastikan file berikut berada dalam satu fol
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 Alat ini dibuat untuk tujuan efisiensi kerja. Pengguna bertanggung jawab penuh atas penggunaan alat ini. Pastikan untuk mengatur jeda waktu (*delay*) yang wajar untuk mematuhi kebijakan platform dan menghindari pembatasan akun.
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 * **Nama**: Fajar Julyana
-* **Perusahaan**: Hurtrock Automation Tools
+* **Perusahaan**: Fajar Mandiri Store
 * **Tahun**: © 2025 — All Rights Reserved
 
 ---
